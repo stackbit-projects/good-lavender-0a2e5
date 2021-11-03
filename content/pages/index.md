@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, yo soy Christian Gabriel Espino Magaña.'
-    content: |+
-      Desarrollador Frontend | Backend | Full Stack
-
+    content: |
+      Desarrollador Frontend | Backend | Full Stack 
   - section_id: about
     type: section_content
     title: About
