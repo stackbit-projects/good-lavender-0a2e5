@@ -20,7 +20,7 @@ sections:
       frontend he colaborado con el desarrollo de pantallas utilizando
       JavaScript, HTML 5, JQuey, Boostrap, CSS3.
     actions:
-      - label: Contact Me
+      - label: Contactame
         url: /contact
         style: button
   - section_id: recent-posts
