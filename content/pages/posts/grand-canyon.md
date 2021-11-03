@@ -1,5 +1,5 @@
 ---
-title: Hiking The Grand Canyon
+title: Cruz Roja Méxicana Estatal Guanajuato
 excerpt: >-
   The Grand Canyon is a steep-sided canyon carved by the Colorado River in
   Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
