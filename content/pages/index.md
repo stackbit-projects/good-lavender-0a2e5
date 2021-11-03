@@ -11,26 +11,16 @@ sections:
     type: section_content
     title: About
     content: >
-
-
-
-
-
-
-
-
-
-
       Me dedico al desarrollo de
 
       software con más de 3 años de experiencia laboral en este ramo, enfocado
       principalmente
 
-      en desarrollo web. He participado en proyectos agiles del lado del backend
-      y
+      en desarrollo web. 
 
-      frontend. Tanto en el sector financiero, de gobierno y privados.
-      Utilizando principalmente
+
+      He participado en proyectos agiles del lado del backend y frontend. Tanto
+      en el sector financiero, de gobierno y privados. Utilizando principalmente
 
       el lenguaje de programación Java con los framework Spring, Struts 2 y PHP
       con
