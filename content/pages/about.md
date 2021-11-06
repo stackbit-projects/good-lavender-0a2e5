@@ -33,13 +33,15 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Desarrollador Junior en lenguaje de programación Java EE, ingeniero en Tecnologías de la información y Comunicaciones y maestro en Dirección e Ingeniería de Software.
+Desarrollador full stack, con más de 3 años de experiencia en programación. He participado en proyectos agiles enfocados al sector financiero, bancario, de gobierno y privado.
 
-****
+Actualmente radico en la Ciudad de México. Colaborando de tiempo completo para Grupo Salinas como desarrollador en Crédito y Cobranza para Banco Azteca.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Cuento con una ingeniería en Tecnologías de la Información y Comunicaciones, cursada en el Instituto Tecnológico Superior de Salvatierra (ITESS) y una maestría en Dirección e Ingeniería de Software. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Me encanta aprender cosas nuevas, estar en constante crecimiento y actualizando mis conocimientos, es por ello que siempre estoy en cursos principalmente en la plataforma de Platzi, porque comparto su slogan "Nunca Pares de Aprender". 
+
+
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
