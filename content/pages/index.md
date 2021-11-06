@@ -13,10 +13,10 @@ sections:
     content: >
       Me dedico al desarrollo de software con más de 3 años de experiencia
       laboral en este ramo, enfocado principalmente en desarrollo web. He
-      participado en proyectos agiles del lado del backend y frontend. Tanto en
-      el sector financiero, de gobierno y privados.Utilizando principalmente el
+      participado en proyectos agiles de lado del backend y frontend. Tanto en
+      el sector financiero, de gobierno y privados. Utilizando principalmente el
       lenguaje de programación Java con los framework Spring, Struts 2 y PHP con
-      Laravel para desarrollando de web service REST y APIS. Del lado del
+      Laravel para desarrollando de web service REST y sitios web. Del lado del
       frontend he colaborado con el desarrollo de pantallas utilizando
       JavaScript, HTML 5, JQuey, Boostrap, CSS3.
     actions:
