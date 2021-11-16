@@ -26,7 +26,7 @@ sections:
         options:
           - Me interesa contactarte
           - Agradecimiento
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Message
