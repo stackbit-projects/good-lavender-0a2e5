@@ -78,16 +78,7 @@
     },
     "footer": {
         "content": "2021 Christian Gabriel Espino Magaña ",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "domain": "https://good-lavender-0a2e5.netlify.app"
 }
