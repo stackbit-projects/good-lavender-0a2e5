@@ -15,9 +15,9 @@ sections:
       laboral en este ramo, enfocado principalmente en desarrollo web. He
       participado en proyectos agiles de lado del backend y frontend. Tanto en
       el sector financiero, de gobierno y privados. Utilizando principalmente el
-      lenguaje de programación Java con los framework Spring, Struts 2 y PHP con
-      Laravel para desarrollando de web service REST y sitios web. Del lado del
-      frontend he colaborado con el desarrollo de pantallas utilizando
+      lenguaje de programación Java con los framework Spring y Struts así como
+      PHP con Laravel para desarrollando de web service REST y sitios web. Del
+      lado del frontend he colaborado con el desarrollo de pantallas utilizando
       JavaScript, HTML 5, JQuey, Boostrap, CSS3.
     actions:
       - label: Contactame
