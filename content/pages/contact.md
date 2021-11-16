@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Me interesa contactarte
-          - Agradesimiento
+          - Agradecimiento
           - Other
       - input_type: textarea
         name: message
