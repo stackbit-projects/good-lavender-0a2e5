@@ -24,7 +24,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - 'Me interesa '
+          - Me interesa contactarte
           - Sponsorship
           - Other
       - input_type: textarea
