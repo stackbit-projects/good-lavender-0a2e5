@@ -31,7 +31,7 @@ sections:
         name: message
         label: Mensaje
         default_value: Your message
-    submit_label: 'Enviar mensage '
+    submit_label: 'Enviar mensaje '
 seo:
   title: Contact
   description: This is the contact page
