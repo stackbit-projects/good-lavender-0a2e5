@@ -76,8 +76,6 @@
             }
         ]
     },
-    "footer": {
-        "content": "yed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    },
+    "footer": {},
     "domain": "https://good-lavender-0a2e5.netlify.app"
 }
