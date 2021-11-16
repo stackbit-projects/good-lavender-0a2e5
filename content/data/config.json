@@ -80,14 +80,6 @@
         "content": "2021 Christian Gabriel Espino Magaña ",
         "links": [
             {
-                "label": "| christianespino93",
-                "url": "www.linkedin.com/in/christianespino93",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true,
-                "no_follow": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
