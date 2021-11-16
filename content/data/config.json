@@ -82,7 +82,7 @@
             {
                 "label": "| christianespino93",
                 "url": "www.linkedin.com/in/christianespino93",
-                "style": "button",
+                "style": "link",
                 "icon_class": "linkedin",
                 "new_window": true,
                 "no_follow": true
