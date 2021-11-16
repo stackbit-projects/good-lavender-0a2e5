@@ -77,7 +77,17 @@
         ]
     },
     "footer": {
-        "content": "2021 Christian Gabriel Espino Magaña <a _blank href='www.linkedin.com/in/christianespino93\">@christianespino93</a>"
+        "content": "2021 Christian Gabriel Espino Magaña <a _blank href='www.linkedin.com/in/christianespino93\">@christianespino93</a>",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://good-lavender-0a2e5.netlify.app"
 }
