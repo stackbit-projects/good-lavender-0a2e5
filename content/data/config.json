@@ -76,6 +76,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "2021 Chri"
+    },
     "domain": "https://good-lavender-0a2e5.netlify.app"
 }
