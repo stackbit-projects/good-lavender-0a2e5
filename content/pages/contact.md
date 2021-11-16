@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Me interesa contactarte
-          - Sponsorship
+          - Reconocimiento
           - Other
       - input_type: textarea
         name: message
